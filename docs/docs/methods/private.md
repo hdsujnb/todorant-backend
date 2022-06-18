@@ -97,8 +97,6 @@ Edits the todo, send [Todo](/models/todo) object here.
 
 ### `GET` /todo/
 
-Creates todos, you can send an array of [Todo](/models/todo) objects here.
-
 Query Parameters
 
 | Field       | Type   | Required | Description                                                                  |
